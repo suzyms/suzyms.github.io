@@ -5,8 +5,8 @@ image: assets/img/portfolio/chord-diagram.png
 alt: Shirts on a hanger
 
 caption:
-  title: 
-  subtitle: Mapping Global Refugee Crises
+  title: Mapping Global Refugee Crises
+  subtitle: 
   thumbnail: assets/img/portfolio/chord-diagram.png
 ---
 This project used the holoviews and bokeh plotting packages to visualise global refugee movements using chord diagrams. The above image shows the largest refugee displacements in 2015. 
