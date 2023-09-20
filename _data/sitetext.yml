@@ -11,10 +11,10 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Hey! I'm Suzy. Welcome to my <br> data visualisation prortfolio.
+    title: Hey! I'm Suzy. Welcome to my <br> data visualisation portfolio.
     text: 
     button: Tell Me More
-    buttonlink: "#portfolio"
+    buttonlink: "#services"
 
   services:
     title: "About Me"
@@ -70,7 +70,7 @@ en: &DEFAULT_EN
 
   about:
     title: "Thanks for taking a look."
-    text: "Please feel free to reach out on linkedin."
+    text: "Any feedback is very welcome! Please feel free to reach out on linkedin."
     body: ""
     section: about
 
