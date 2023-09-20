@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Hey! Welcome to my data visualisation prortfolio.
+    title: Hey! I'm Suzy. Welcome to my <br> data visualisation prortfolio.
     text: 
     button: Tell Me More
     buttonlink: "#portfolio"
