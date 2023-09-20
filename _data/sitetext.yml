@@ -130,7 +130,7 @@ en: &DEFAULT_EN
          #   icon: fab fa-linkedin-in
 
   contact:
-    title: ""
+    title: "."
     text: "Not in use"
     section: contact
     name: "-"
@@ -140,8 +140,8 @@ en: &DEFAULT_EN
     phone: "-"
     phone-validation: "-"
     message: "-"
-    message-validation: "Please contact me on linkedin instead!."
-    subject: ""
+    message-validation: "Please contact me on linkedin instead!"
+    subject: "-"
     submit: "Not in use"
 
   footer:
