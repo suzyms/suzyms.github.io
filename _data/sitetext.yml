@@ -37,10 +37,10 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close Project"
 
-#  timeline:
- #   title: ""
+  timeline:
+    title: "Thanks for taking a look!"
   #  text: "Lorem ipsum timeline"
-   # section: timeline
+    section: timeline
     # left is the default
     #start_align: "left"
   #  events:
