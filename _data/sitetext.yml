@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "About Me"
-  #  text: "I'm a data scientist."
+    text: "I'm a data scientist."
     section: services
    # list:
     #  - title: "E-Commerce"
@@ -38,8 +38,8 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "Thanks for taking a look!"
-  #  text: "Lorem ipsum timeline"
+    title: ""
+    text: ""
     section: timeline
     # left is the default
     #start_align: "left"
@@ -69,8 +69,8 @@ en: &DEFAULT_EN
   #  end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: ""
-    text: ""
+    title: "Thanks for taking a look."
+    text: "Please feel free to reach out on linkedin."
     body: ""
     section: about
 
