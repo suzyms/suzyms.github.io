@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "About Me"
-    text: "I'm a data scientist."
+    text: "I'm a data scientist and data visualisation enthusiast. This portfolio is a collection of personal projects based on data I find interesting/ impactful. Feel free to have a little scroll!"
     section: services
    # list:
     #  - title: "E-Commerce"
@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "A selection of visualisations of data I find interesting. Click on the thumbnails to learn more."
+    text: "Click on the thumbnails to learn more."
     section: portfolio
     closebutton: "Close Project"
 
