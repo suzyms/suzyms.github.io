@@ -70,7 +70,7 @@ en: &DEFAULT_EN
 
   about:
     title: "Thanks for taking a look."
-    text: "Any feedback is very welcome! Please feel free to reach out on linkedin."
+    text: "This is a work in progress so any feedback is very welcome! Please feel free to reach out on linkedin."
     body: ""
     section: about
 
@@ -129,20 +129,20 @@ en: &DEFAULT_EN
         #  - url: https://linkedin.com
          #   icon: fab fa-linkedin-in
 
- # contact:
-  #  title: "."
-  #  text: "Lorem ipsum or call 123456789"
-   # section: contact
-   # name: "."
-  # name-validation: "."
-  #  email: "."
- #   email-validation: "Please enter your email address."
-  #  phone: "Phone Number"
-   # phone-validation: "Please enter your phone number."
-    #message: "Message*"
-#    message-validation: "Please enter a message."
- #   subject: "Contact Form Submission"
-   # submit: " "
+  contact:
+    title: ""
+    text: "Not in use"
+    section: contact
+    name: "-"
+   name-validation: "-"
+    email: "-"
+    email-validation: "-"
+    phone: "-"
+    phone-validation: "-"
+    message: "-"
+    message-validation: "Please contact me on linkedin instead!."
+    subject: ""
+    submit: "Not in use"
 
   footer:
     legal: "Privacy Policy"
