@@ -18,7 +18,7 @@ en: &DEFAULT_EN
 
   services:
     title: "About Me"
-    text: "I'm a data scientist and data visualisation enthusiast. This portfolio <br> is a collection of personal projects based on data I find interesting/ impactful.<br> Feel free to have a little scroll!"
+    text: "I've been a data scientist for 2.5 years and before that I did a PhD in Bioengineering.<br> I have a healthy obsession with making data look nice and using it to tell stories. This portfolio <br> is a collection of personal projects based on data I find interesting/ impactful.<br> Feel free to have a little scroll!"
     section: services
    # list:
     #  - title: "E-Commerce"
