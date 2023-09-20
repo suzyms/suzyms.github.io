@@ -17,8 +17,8 @@ en: &DEFAULT_EN
     buttonlink: "#portfolio"
 
   services:
-    title: "Portfolio"
-  #  text: "Lorem ipsum"
+    title: "About Me"
+  #  text: "I'm a data scientist."
     section: services
    # list:
     #  - title: "E-Commerce"
@@ -32,7 +32,7 @@ en: &DEFAULT_EN
        # icon: fab fa-markdown
 
   portfolio:
-    title: ""
+    title: "Portfolio"
     text: "A selection of visualisations of data I find interesting."
     section: portfolio
     closebutton: "Close Project"
@@ -69,8 +69,8 @@ en: &DEFAULT_EN
   #  end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Me"
-    text: "I'm a data scientist and data visualisation enthusiast."
+    title: ""
+    text: ""
     body: ""
     section: about
 
