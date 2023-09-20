@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "A selection of visualisations of data I find interesting."
+    text: "A selection of visualisations of data I find interesting. Click on the thumbnails to learn more."
     section: portfolio
     closebutton: "Close Project"
 
