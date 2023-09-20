@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     buttonlink: "#portfolio"
 
   services:
-    title: "Scroll down to check out my portfolio"
+    title: ""
   #  text: "Lorem ipsum"
     section: services
    # list:
@@ -38,7 +38,7 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: "Timeline"
+    title: ""
     text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
