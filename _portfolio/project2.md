@@ -9,7 +9,7 @@ caption:
   subtitle: 
   thumbnail: assets/img/portfolio/bump-chart.png
 ---
-This bump chart shows the top 10 C02 emitting counties from between 2009-2019.
+This bump chart shows the top 10 C02 emitting countries from between 2009-2019.
 
 The dataset can be found here: https://www.kaggle.com/datasets/lobosi/c02-emission-by-countrys-grouth-and-population
 
