@@ -1,15 +1,17 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: How Happy are the Most Streamed Songs of 2023?
+subtitle: 
 image: assets/img/portfolio/bubble-chart.png
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
+  title: How Happy are the Most Streamed Songs of 2023
+  subtitle: 
   thumbnail: assets/img/portfolio/bubble-chart.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+This visualisation shows Spotify's top 30 most streamed songs of 2023. Songs are plotted based on their danceability and positivity. This size of the bubble is proportional to the number of streams (ie. bigger bubble = more streams).
+
+The dataset can be found here: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023
 
 {:.list-inline}
 - Date: September 2023
