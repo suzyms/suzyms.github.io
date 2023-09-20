@@ -130,19 +130,19 @@ en: &DEFAULT_EN
          #   icon: fab fa-linkedin-in
 
   contact:
-    title: " "
-    text: "Not in use"
-    section: contact
-    name: "Name"
-   name-validation: "-"
-    email: "Email"
-    email-validation: "-"
-    phone: "Phone"
-    phone-validation: "-"
-    message: "Message"
-    message-validation: "Please contact me on linkedin instead!"
-    subject: " "
-    submit: "Not in use"
+      title: "Contact Me"
+      text: "Please contact me on linkedin- this message box is not currently set up."
+      section: contact
+      name: "Name*"
+      name-validation: "Please enter your name."
+      email: "Email*"
+      email-validation: "Please enter your email address."
+      phone: "Phone Number"
+      phone-validation: "Please enter your phone number."
+      message: "Message*"
+      message-validation: "Please enter a message."
+      subject: "Contact Form Submission"
+      submit: "Not in Use"
 
   footer:
     legal: "Privacy Policy"
