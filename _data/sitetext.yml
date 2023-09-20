@@ -38,8 +38,8 @@ en: &DEFAULT_EN
     closebutton: "Close Project"
 
   timeline:
-    title: ""
-    text: ""
+    title: " "
+    text: " "
     section: timeline
     # left is the default
     #start_align: "left"
@@ -129,20 +129,20 @@ en: &DEFAULT_EN
         #  - url: https://linkedin.com
          #   icon: fab fa-linkedin-in
 
-#  contact:
- #   title: "Contact Us"
+  contact:
+    title: " "
   #  text: "Lorem ipsum or call 123456789"
    # section: contact
-    #name: "Name*"
-   #name-validation: "Please enter your name."
-    #email: "Email*"
+    name: " "
+   name-validation: " "
+    email: " "
  #   email-validation: "Please enter your email address."
   #  phone: "Phone Number"
    # phone-validation: "Please enter your phone number."
     #message: "Message*"
 #    message-validation: "Please enter a message."
  #   subject: "Contact Form Submission"
-  #  submit: "Send Message"
+    submit: " "
 
   footer:
     legal: "Privacy Policy"
