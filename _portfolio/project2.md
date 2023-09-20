@@ -1,15 +1,17 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Top 10 C02 Emitting Countries
+subtitle: 
 image: assets/img/portfolio/bump-chart.png
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: Top 10 C02 Emitting Countries
+  subtitle: 
   thumbnail: assets/img/portfolio/bump-chart.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+This bump chart shows the top 10 C02 emitting counties from between 2009-2019.
+
+The dataset can be found here: https://www.kaggle.com/datasets/lobosi/c02-emission-by-countrys-grouth-and-population
 
 {:.list-inline}
 - Date: August 2023
