@@ -1,15 +1,15 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Predicting Global Warming using C02 Emissions
+subtitle: 
 image: assets/img/portfolio/line-chart.png
 alt: 
 
 caption:
-  title: Lines
-  subtitle: Branding
+  title: Predicting Global Warming using C02 Emissions
+  subtitle: 
   thumbnail: assets/img/portfolio/line-chart-thumbnail.png
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+This project aimed to predict changing temperatures using co2 emissions with Tensorflow. It is an obect oriented approach based on https://drive.google.com/drive/folders/1Pl6gxmc3TxqvKhvxZ9BwyK6UYaa8RC3z.
 
 {:.list-inline}
 - Date: July 2023
