@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     buttonlink: "#portfolio"
 
   services:
-    title: ""
+    title: "Portfolio"
   #  text: "Lorem ipsum"
     section: services
    # list:
@@ -32,7 +32,7 @@ en: &DEFAULT_EN
        # icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
+    title: ""
     text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
