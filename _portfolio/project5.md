@@ -14,6 +14,6 @@ This chart shows the estimated number of people exposed to unsafe levels of PM2.
 The dataset can be found here: https://data.london.gov.uk/dataset/london-atmospheric-emissions-inventory--laei--2019
 
 {:.list-inline}
-- Date: July 2023
+- Date: September 2023
 - Made with: Python
 
