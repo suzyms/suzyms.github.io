@@ -1,11 +1,11 @@
 ---
-title: Pollution Levels in London Boroughs
+title: Pollution Exposure in London Boroughs
 subtitle: 
 image: assets/img/portfolio/polar-chart.png
 alt: 
 
 caption:
-  title: Pollution Levels in London Boroughs
+  title: Pollution Exposure in London Boroughs
   subtitle: 
   thumbnail: assets/img/portfolio/polar-chart.png
 ---
