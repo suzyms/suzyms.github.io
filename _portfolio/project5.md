@@ -1,17 +1,17 @@
 ---
-title: Predicting Global Warming using C02 Emissions
+title: Pollution Levels in London Boroughs
 subtitle: 
-image: assets/img/portfolio/line-chart.png
+image: assets/img/portfolio/polar-chart.png
 alt: 
 
 caption:
-  title: Predicting Global Warming using C02 Emissions
+  title: Pollution Levels in London Boroughs
   subtitle: 
-  thumbnail: assets/img/portfolio/line-chart-thumbnail.png
+  thumbnail: assets/img/portfolio/polar-chart.png
 ---
-This project aimed to predict changing global temperatures using co2 emissions with Tensorflow. It is an obect oriented approach based on https://drive.google.com/drive/folders/1Pl6gxmc3TxqvKhvxZ9BwyK6UYaa8RC3z.
+This chart shows the estimated number of people exposed to unsafe levels of PM2.5 in each London borough in 2019.
 
-The full code can be found on my github here: https://github.com/suzyms/predicting-temp-co2-changes
+The dataset can be found here: https://data.london.gov.uk/dataset/london-atmospheric-emissions-inventory--laei--2019
 
 {:.list-inline}
 - Date: July 2023
