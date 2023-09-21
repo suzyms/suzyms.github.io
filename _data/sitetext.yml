@@ -33,7 +33,7 @@ en: &DEFAULT_EN
 
   portfolio:
     title: "Portfolio"
-    text: "Click on the thumbnails to learn more."
+    text: "Click on the thumbnails to learn more. If it's not already linked in the project, the code will be up on my Github soon."
     section: portfolio
     closebutton: "Close Project"
 
