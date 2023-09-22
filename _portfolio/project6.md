@@ -1,13 +1,13 @@
 ---
 title: What Does it Take to be a Top Song?
 subtitle: 
-image: assets/img/portfolio/pie-chart.png
+image: assets/img/portfolio/06pie-chart.png
 alt: 
 
 caption:
   title: What Does it Take to be a Top Song
   subtitle: 
-  thumbnail: assets/img/portfolio/pie-chart.png
+  thumbnail: assets/img/portfolio/06pie-chart.png
 ---
 This chart shows the ratios of energy, accousticness and speechiness for the top 15 most streamed songs on Spotify for 2023.
 
