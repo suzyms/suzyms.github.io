@@ -1,19 +1,19 @@
 ---
-title: Predicting Global Warming using C02 Emissions
+title: What Does it Take to be a Top Song?
 subtitle: 
-image: assets/img/portfolio/line-chart.png
+image: assets/img/portfolio/pie-chart.png
 alt: 
 
 caption:
-  title: Predicting Global Warming using C02 Emissions
+  title: What Does it Take to be a Top Song
   subtitle: 
-  thumbnail: assets/img/portfolio/line-chart-thumbnail.png
+  thumbnail: assets/img/portfolio/pie-chart.png
 ---
-This project aimed to predict changing global temperatures using co2 emissions with Tensorflow. It is an obect oriented approach based on https://drive.google.com/drive/folders/1Pl6gxmc3TxqvKhvxZ9BwyK6UYaa8RC3z.
+This chart shows the ratios of energy, accousticness and speechiness for the top 15 most streamed songs on Spotify for 2023.
 
-The full code can be found on my github here: https://github.com/suzyms/predicting-temp-co2-changes
+The original dataset can be found here: https://www.kaggle.com/datasets/nelgiriyewithana/top-spotify-songs-2023
 
 {:.list-inline}
-- Date: July 2023
+- Date: September 2023
 - Made with: Python
 
